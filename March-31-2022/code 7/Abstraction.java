@@ -2,7 +2,7 @@
 	 abstract void talk();
  }
  
- abstract class Person extends LivingBeing{
+class Person extends LivingBeing{
 	String fname,lname;
 	
 	void talk(){
